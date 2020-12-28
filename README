@@ -2,7 +2,7 @@
 
 - This is a Debian binary of SLEUTH3.0beta_p01 LINUX released 6/2005
 - Source http://www.ncgia.ucsb.edu/projects/gig/Dnload/download.htm
-- The binary was build on Debian 10 / 64-bit PC (amd64) 
+- The binary was built on Debian 10 / 64-bit PC (amd64) 
 
 ## sleuth.deb
 - has only grow and whirlgif
