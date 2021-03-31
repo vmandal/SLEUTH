@@ -5,8 +5,7 @@
 - The binary was built on Debian 10 / 64-bit PC (amd64) 
 
 ## sleuth.deb
-- has only grow and whirlgif
+- sleuth.deb contains grow, whirlgif and other related binaries
+- download sleuth.deb and install as: apt install ./sleuth.deb
+- No need to set full path to grow or whirlgif. They will work from any location now
 
-## sleuth_all.deb
-- has all including GD libs (gddemo, webgif, giftogd, ibgd.a lib) with grow and whirlgif
-- Grow incldues GD libs with it so these does not seem essential 
