@@ -32,7 +32,7 @@ char stats_obj_c_sccs_id[] = "@(#)stats_obj.c	1.72	12/4/00";
 *******************************************************************************
 \*****************************************************************************/
 #define MAX_LINE_LEN 256
-#define SIZE_CIR_Q 1000
+#define SIZE_CIR_Q 3000
 
 #define Q_STORE(R,C)                                                     \
   if((sidx+1==ridx)||((sidx+1==SIZE_CIR_Q)&&!ridx)){                     \
